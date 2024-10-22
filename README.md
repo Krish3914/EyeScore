@@ -2,6 +2,7 @@
 <p align="center">
   <img src="./client/src/assets/logofont.svg" width="20%" />
 </p>
+EyeScore
 
 <p align="center">
   A straightforward framework built for automatic proctoring to create online tests, <i>effortlessly</i>.
